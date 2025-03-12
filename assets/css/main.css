@@ -25,6 +25,11 @@
     
     
 }
+@media (max-width: 768px) {
+  .part {
+    grid-template-columns: 1fr; 
+  }
+}
 
 
 
